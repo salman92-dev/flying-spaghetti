@@ -1327,7 +1327,7 @@ li {
     .accordion {
         color: #ffffff;
         cursor: pointer;
-        padding: 2vw;
+        padding: 6vw 0;
         font-family: 'Roboto';
         font-weight: 500;
         width: 100%;
